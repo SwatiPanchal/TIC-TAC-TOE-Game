@@ -1,0 +1,22 @@
+/* table{
+  border: 5px solid black;
+  width: 450px;
+  height: 450px;
+}
+
+tr{
+  border: 5px solid black;
+}
+
+td{
+  border: 5px solid black;
+} */
+
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 5px solid black;
+  font-size: 100px
+}
